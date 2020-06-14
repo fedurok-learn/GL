@@ -1,0 +1,1 @@
+Notice that subdirs are also allowed
